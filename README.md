@@ -1,1 +1,1 @@
-# Aztec-Node-Sequencer
+# Run Execution & Consensus Node for Aztec Network
