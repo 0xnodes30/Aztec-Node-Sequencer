@@ -14,3 +14,17 @@ What types of nodes can participate in the testnet?
 ## * install *
 
 ##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
